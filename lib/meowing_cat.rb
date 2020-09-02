@@ -3,5 +3,5 @@ class Cat
   puts "meow!"
 end 
 
-cat.meow 
+puts.meow 
 
